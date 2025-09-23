@@ -1,0 +1,7 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+dlib-bin
+numpy
+pandas
+flask
